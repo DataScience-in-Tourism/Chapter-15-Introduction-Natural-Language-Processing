@@ -3,7 +3,7 @@
 * Roman Egger - Salzburg University of Applied Sciences, Innovation and Management in Tourism
 * Enes Gokce - Pennsylvania State University
 
-#### In this chapter, you will find listed python notebooks: 
+#### In this chapter, we present NLP- pre-processing steps and additionally provide these python notebooks: 
 1) Text_cleaning_Tourism_data.ipynb
 2) N_gram.ipynb
 
