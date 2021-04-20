@@ -1,4 +1,3 @@
-# Introduction_to_NLP
 **Authors**
 * Roman Egger - Salzburg University of Applied Sciences, Innovation and Management in Tourism
 * Enes Gokce - Pennsylvania State University
