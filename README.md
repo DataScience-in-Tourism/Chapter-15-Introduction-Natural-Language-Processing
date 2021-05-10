@@ -1,7 +1,7 @@
 # Chapter 15: Introduction: Natural Language Processing
 **Authors**
 * Roman Egger - Salzburg University of Applied Sciences, Innovation and Management in Tourism
-* Enes Gokce - Pennsylvania State University
+* Enes Gokce - Pennsylvania State University - Lifelong Learning Adult Education Ph.D Student
 
 #### In this chapter, we present NLP- pre-processing steps and additionally provide these python notebooks: 
 1) Text_cleaning_Tourism_data.ipynb
