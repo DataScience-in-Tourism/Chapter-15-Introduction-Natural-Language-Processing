@@ -3,6 +3,7 @@
 
 ***Authors***
 Roman Egger - Salzburg University of Applied Sciences, Innovation and Management in Tourism
+
 Enes Gokce - Pennsylvania State University
 
 ![text.png](https://github.com/DataScience-in-Tourism/Chapter-16-Text-Representation-and-Word-Embeddings/blob/main/text.png)
