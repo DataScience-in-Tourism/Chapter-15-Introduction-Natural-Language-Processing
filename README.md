@@ -1,10 +1,11 @@
-# Chapter 15: Introduction: Natural-Language-Processing
+# Chapter 15: Natural Language Processing (NLP): An Introduction
+
+## Making sense of textual data
 ## http://www.datascience-in-tourism.com/
 
-***Authors***
-Roman Egger - Salzburg University of Applied Sciences, Innovation and Management in Tourism
-
-Enes Gokce - Pennsylvania State University
+***Roman Egger*** & ***Enes Gokce***
+* Roman Egger - Salzburg University of Applied Sciences, Innovation and Management in Tourism
+* Enes Gokce - Pennsylvania State University
 
 ![text.png](https://github.com/DataScience-in-Tourism/Chapter-16-Text-Representation-and-Word-Embeddings/blob/main/text.png)
 
